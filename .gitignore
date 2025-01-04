@@ -1,0 +1,9 @@
+# Virtual environment
+echographenv/
+
+# Environment variables
+.env
+
+# System files
+__pycache__/
+.DS_Store
